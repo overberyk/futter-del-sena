@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411537089532",
+    "project_id": "sena-poryecto",
+    "storage_bucket": "sena-poryecto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411537089532:android:61762b80c473831bc50879",
+        "android_client_info": {
+          "package_name": "com.example.flutter_taller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGed8rhQjxe6q7FeCYyRxlS9emihRi48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
